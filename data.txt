@@ -1,1 +1,1 @@
-172.104.241.168	36151	https://qywva-192-42-116-97.free.pinggy.net	2a016c284727a2e5
+172.104.241.168	36151	https://qywva-192-42-116-97cu.free.pinggy.net	2a016c284727a2e5
