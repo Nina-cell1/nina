@@ -1,1 +1,1 @@
-141.94.45.153	44137	https://fkrto-192-76-153-253.free.pinggy.net	81699b7df0d55f10
+172.104.241.168	43535	https://fkrto-192-76-153-253.free.pinggy.net	81699b7df0d55f10
